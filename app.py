@@ -1,4 +1,5 @@
 import streamlit as st
+from optimism_score import PmB, PmG, PvB, PvG, PsB, PsG, TotalB, TotalG, GB
 
 # Load the questions
 with open("questions.txt", "r") as f:
@@ -40,6 +41,31 @@ def show_question():
         if col2.button(o2):
             st.session_state.scores[t] += s2
             st.session_state.index += 1
+    else:
+        st.write(f"Results")
+        # st.write(st.session_state.scores)
+
+        pmB = st.session_state.scores['PmB']
+        pvB = st.session_state.scores['PvB']
+        psB = st.session_state.scores['PsB']
+        pmG = st.session_state.scores['PmG']
+        pvG = st.session_state.scores['PvG']
+        psG = st.session_state.scores['PsG']
+
+        st.write(f"PmB: {PmB(pmB)} ({pmB})")
+        st.write(f"PvB: {PvB(pvB)} ({pvB})")
+        st.write(f"PsB: {PsB(psB)} ({psB})")
+        st.write(f"PmG: {PmG(pmG)} ({pmG})")
+        st.write(f"PvG: {PvG(pvG)} ({pvG})")
+        st.write(f"PsG: {PsG(psG)} ({psG})")
+
+        B = pmB + pvB + psB
+        G = pmG + pvG + psG
+
+        st.write(f"Total B: {TotalB(B)} ({B})")
+        st.write(f"Total G: {TotalG(G)} ({G})")
+    
+        st.write(f"G - B: {GB(G, B)} ({G-B})")        
 
 # Define the main app
 def main():
@@ -48,12 +74,7 @@ def main():
     
     if st.session_state.index < len(questions):
         st.write(f"Question {st.session_state.index + 1} of {len(questions)}")
-    else:
-        st.write(f"Results")
-        st.write(st.session_state.scores)
-        st.write(f"Total B: {sum([v for k, v in st.session_state.scores.items() if k.endswith('B')])}")
-        st.write(f"Total G: {sum([v for k, v in st.session_state.scores.items() if k.endswith('G')])}")
-        st.write(f"G - B: {sum([v for k, v in st.session_state.scores.items() if k.endswith('G')]) - sum([v for k, v in st.session_state.scores.items() if k.endswith('B')])}")
+
     if st.session_state.index > 0:
         if st.button('Back'):
             st.session_state.index -= 1
