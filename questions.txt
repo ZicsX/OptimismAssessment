@@ -80,7 +80,7 @@ A. He/she is always nagging me. 1
 B. He/she was in a hostile mood. 0
 21. You are penalized for not returning your income-tax forms on time.
 PmB
-A. I always put o_ doing my taxes. 1
+A. I always put off doing my taxes. 1
 B. I was lazy about getting my taxes done this year. 0
 22. You ask a person out on a date and he/she says no.
 PvB
