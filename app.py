@@ -79,6 +79,7 @@ def main():
         if st.button('Back'):
             st.session_state.index -= 1
             st.session_state.scores[questions[st.session_state.index][1]] = 0
+            st.experimental_rerun()
 
 # Run the app
 if __name__ == '__main__':
