@@ -1,0 +1,192 @@
+1. The project you are in charge of is a great success.
+PsG
+A. I kept a close watch over everyone's work. 1
+B. Everyone devoted a lot of time and energy to it. 0
+2. You and your spouse (boyfriend/girlfriend) make up after a fight.
+PmG
+A. I forgave him/her. 0
+B. I'm usually forgiving. 1
+3. You get lost driving to a friend's house.
+PsB
+A. I missed a turn. 1
+B. My friend gave me bad directions. 0
+4. Your spouse (boyfriend/girlfriend) surprises you with a gift.
+PsG
+A. He/she just got a raise at work. 0
+B. I took him/her out to a special dinner the night before. 1
+5. You forget your spouse's (boyfriend's/girlfriend's) birthday.
+PmB
+A. I'm not good at remembering birthdays. 1
+B. I was preoccupied with other things. 0
+6. You get a flower from a secret admirer.
+PvG
+A. I am attractive to him/her. 0
+B. I am a popular person. 1
+7. You run for a community office position and you win.
+PvG
+A. I devote a lot of time and energy to campaigning. 0
+B. I work very hard at everything I do. 1
+8. You miss an important engagement.
+PvB
+A. Sometimes my memory fails me. 1
+B. I sometimes forget to check my appointment book. 0
+9. You run for a community office position and you lose.
+PsB
+A. I didn't campaign hard enough. 1
+B. The person who won knew more people. 0
+10. You host a successful dinner.
+PmG
+A. I was particularly charming that night. 0
+B. I am a good host. 1
+11. You stop a crime by calling the police.
+PsG
+A. A strange noise caught my attention. 0
+B. I was alert that day. 1
+12. You were extremely healthy all year.
+PsG
+A. Few people around me were sick, so I wasn't exposed. 0
+B. I made sure I ate well and got enough rest. 1
+13. You owe the library ten dollars for an overdue book.
+PmB
+A. When I am really involved in what I am reading, I often forget when it's due. 1
+B. I was so involved in writing the report that I forgot to return the book. 0
+14. Your stocks make you a lot of money.
+PmG
+A. My broker decided to take on something new. 0
+B. My broker is a top-notch investor. 1
+15. You win an athletic contest.
+PmG
+A. I was feeling unbeatable. 0
+B. I train hard. 1
+16. You fail an important examination.
+PvB
+A. I wasn't as smart as the other people taking the exam. 1
+B. I didn't prepare for it well. 0
+17. You prepared a special meal for a friend and he/she barely touched the food.
+PvB
+A. I wasn't a good cook. 1
+B. I made the meal in a rush. 0
+18. You lose a sporting event for which you have been training for a long time.
+PvB
+A. I'm not very athletic. 1
+B. I'm not good at that sport. 0
+19. Your car runs out of gas on a dark street late at night.
+PsB
+A. I didn't check to see how much gas was in the tank. 1
+B. The gas gauge was broken. 0
+20. You lose your temper with a friend.
+PmB
+A. He/she is always nagging me. 1
+B. He/she was in a hostile mood. 0
+21. You are penalized for not returning your income-tax forms on time.
+PmB
+A. I always put o_ doing my taxes. 1
+B. I was lazy about getting my taxes done this year. 0
+22. You ask a person out on a date and he/she says no.
+PvB
+A. I was a wreck that day. 1
+B. I got tongue-tied when I asked him/her on the date. 0
+23. A game-show host picks you out of the audience to participate in the show.
+PsG
+A. I was sitting in the right seat. 0
+B. I looked the most enthusiastic. 1
+24. You are frequently asked to dance at a party.
+PmG
+A. I am outgoing at parties. 1
+B. I was in perfect form that night. 0
+25. You buy your spouse (boyfriend/girlfriend) a gift and he/she doesn't like it.
+PsB
+A. I don't put enough thought into things like that. 1
+B. He/she has very picky tastes. 0
+26. You do exceptionally well in a job interview.
+PmG
+A. I felt extremely confident during the interview. 0
+B. I interview well. 1
+27. You tell a joke and everyone laughs.
+PsG
+A. The joke was funny. 0
+B. My timing was perfect. 1
+28. Your boss gives you too little time in which to finish a project, but you get it finished anyway.
+PvG
+A. I am good at my job. 0
+B. I am an efficient person. 1
+29. You've been feeling run-down lately.
+PmB
+A. I never get a chance to relax. 1
+B. I was exceptionally busy this week. 0
+30. You ask someone to dance and he/she says no.
+PsB
+A. I am not a good enough dancer. 1
+B. He/she doesn't like to dance. 0
+31. You save a person from choking to death.
+PvG
+A. I know a technique to stop someone from choking. 0
+B. I know what to do in crisis situations. 1
+32. Your romantic partner wants to cool things off for a while.
+PvB
+A. I'm too self-centered. 1
+B. I don't spend enough time with him/her. 0
+33. A friend says something that hurts your feelings.
+PmB
+A. She always blurts things out without thinking of others. 1
+B. My friend was in a bad mood and took it out on me. 0
+34. Your employer comes to you for advice.
+PvG
+A. I am an expert in the area about which I was asked. 0
+B. I am good at giving useful advice. 1
+35. A friend thanks you for helping him/her get through a bad time.
+PvG
+A. I enjoy helping him/her through tough times. 0
+B. I care about people. 1
+36. You have a wonderful time at a party.
+PsG
+A. Everyone was friendly. 0
+B. I was friendly. 1
+37. Your doctor tells you that you are in good physical shape.
+PvG
+A. I make sure I exercise frequently. 0
+B. I am very health conscious. 1
+38. Your spouse (boyfriend/girlfriend) takes you away for a romantic weekend.
+PmG
+A. He/she needed to get away for a few days. 0
+B. He/she likes to explore new areas. 1
+39. Your doctor tells you that you eat too much sugar.
+PsB
+A. I don't pay much attention to my diet. 1
+B. You can't avoid sugar, it's in everything. 0
+40. You are asked to head an important project.
+PmG
+A. I just successfully completed a similar project. 0
+B. I am a good supervisor. 1
+41. You and your spouse (boyfriend/girlfriend) have been fighitng a great deal.
+PsB
+A. I have been feeling cranky and pressured lately. 1
+B. He/she has been hostile lately. 0
+42. You fall down a great deal while skiing.
+PmB
+A. Skiing is difficult. 1
+B. The trails were icy. 0
+43. You win a prestigious award.
+PvG
+A. I solved an important problem. 0
+B. I was the best employee. 1
+44. Your stocks are at an all-time low.
+PvB
+A. I didn't know much about the business climate at the time. 1
+B. I made a poor choice of stocks. 0
+45. You win the lottery.
+PsG
+A. It was pure chance. 0
+B. I picked the right numbers. 1
+46. You gain weight over the holidays and you can't lose it.
+PmB
+A. Diets don't work in the long run. 1
+B. The diet I tried didn't work. 0
+47. You are in the hospital and few people come to visit.
+PsB
+A. I'm irritable when I am sick. 1
+B. My friends are negligent about things like that. 0
+48. They won't honor your credit card at a store.
+PvB
+A. I sometimes overestimate how much money I have. 1
+B. I sometimes forget to pay my credit-card bill. 0
